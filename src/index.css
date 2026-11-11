@@ -32,11 +32,8 @@ border-bottom: 1px solid var(--raised); }
 margin: 0 0 1.25rem; }
 .notice { color: var(--muted); max-width: 60ch; }
 .notice.error { color: var(--danger); }
-
 .search, .filters { display: flex; flex-wrap: wrap; gap: .75rem; margin-bottom: 1.5rem; align-items: center; }
-
-input, select, textarea { background: var(--surface); border: 1px solid var(-
--raised); border-radius: var(--radius); padding: .65rem .9rem; }
+input, select, textarea { background: var(--surface); border: 1px solid var(--raised); border-radius: var(--radius); padding: .65rem .9rem; }
 .search input { flex: 1; min-width: 220px; }
 .primary, .search button { background: var(--label); color: var(--ink);
 border: 0; border-radius: var(--radius); padding: .65rem 1.2rem; font-weight:
