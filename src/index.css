@@ -62,8 +62,7 @@ translateX(-6%); }
 
 .chip { background: var(--surface); border: 1px solid var(--raised); border-radius: 99px; padding: .35rem .9rem; font-size: .9rem; }
 
-.chip.on { background: var(--label); color: var(--ink); border-color: var(--
-label); font-weight: 700; }
+.chip.on { background: var(--label); color: var(--ink); border-color: var(--label); font-weight: 700; }
 .detail-head { display: grid; grid-template-columns: minmax(180px, 280px)
 1fr; gap: 2rem; margin-bottom: 2rem; }
 
